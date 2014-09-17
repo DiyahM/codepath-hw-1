@@ -34,6 +34,7 @@ Overall, I spent **15 - 20 hours** on this assignment.
 - Fix label vertical alignment
 - Add a LICENSE to repository
 - Add acknowledgement of open sourced libraries used
+- Add pagination
 
 ![Animated Screenshots](ted-video.gif?raw=true =320x)
 <br>Animated gif provided by [LiceCap](http://www.cockos.com/licecap/)
