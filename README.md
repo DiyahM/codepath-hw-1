@@ -1,7 +1,9 @@
 ##Codepath HW 1: TED MUSIC APP Demo
 
-Wanted to challenge myself to do a different app other than the Rotten Tomatoes app, but still meet the basic requirement.
-The TED API ended up not being as straight forward and it costed me a lot of hours. I ended up scrapping the TED API and using PARSE Overall, I probably spent **15 - 20 hours** on this assignment. 
+I wanted to challenge myself to do a different app than the Rotten Tomatoes app assigned this week. And still meet this week's requirements.
+I built a Demo to showcase all the Live Music Performances from the TED Conferences. However, the TED API is not ideal for use and it costed me a lot of hours to do a few workarounds. I ended up scrapping the TED API and placing it in Parse. 
+
+Overall, I probably **15 - 20 hours** on this assignment. 
 
 Requirements Met:
 
@@ -15,8 +17,7 @@ Requirements Met:
 Issues:
 - I spent a couple of hours trying to add a launch screen but was unable to get it to work
 - I would like to extend this app to play the TED videos. I was unable to get the video working before the assignment deadline.
-- Could not get LiceCap to work for animated gif. When launched an empty window appears and then it crashes.
-- I also could not set the size of the animated gif attache in this readme
+- I also had a hard time ramping up on Objective-C and Swift. Often, I would google how-tos and the results would be displayed in Objective-C and I found it difficult to "translate" it to Swift.
 
 ![Animated Screenshots](ted-video.gif?raw=true =320x)
 Animated gif provided by [LiceCap](http://www.cockos.com/licecap/)
