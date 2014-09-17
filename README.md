@@ -18,4 +18,5 @@ Issues:
 - Could not get LiceCap to work for animated gif. When launched an empty window appears and then it crashes.
 - I also could not set the size of the animated gif attache in this readme
 
-![Animated Screenshots](output_bjK4ac.gif?raw=true =320x)
+![Animated Screenshots](ted-video.gif?raw=true =320x)
+Animated gif provided by [LiceCap](http://www.cockos.com/licecap/)
