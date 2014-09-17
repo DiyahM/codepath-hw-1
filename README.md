@@ -3,7 +3,7 @@
 I wanted to challenge myself to do a different app than the Rotten Tomatoes app assigned this week. And still meet this week's requirements.
 I built a Demo to showcase all the Live Music Performances from the TED Conferences. However, the TED API is not ideal for use and it costed me a lot of hours to do a few workarounds. I ended up scrapping the TED API and placing it in Parse. 
 
-Overall, I probably **15 - 20 hours** on this assignment. 
+Overall, I spent **15 - 20 hours** on this assignment. 
 
 ####Requirements Met:
 
