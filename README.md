@@ -18,4 +18,4 @@ Issues:
 - I spent a couple of hours trying to add a launch screen but was unable to get it to work
 - I would like to extend this app to play the TED videos. I was unable to get the video working before the assignment deadline.
 - Could not get LiceCap to work for animated gif. When launched an empty window appears and then it crashes.
-
+- I also could not set the size of the animated gif attache in this readme
