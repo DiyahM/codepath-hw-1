@@ -5,7 +5,7 @@ The TED API ended up not being as straight forward and it costed me a lot of hou
 
 Requirements Met:
 
-- User can view a list of movies from Rotten Tomatoes. Poster images must be loading asynchronously. (Although, this is largely provided by Parse)
+- User can view a list of movies from Rotten Tomatoes. Poster images must be loading asynchronously. Edit: User can view list of talks from TED. Images are loaded asynchronously. (Although, this is largely provided by Parse)
 - User can view movie details by tapping on a cell
 - User sees loading state while waiting for movies API. You can use one of the 3rd party libraries at cocoacontrols.com.
 - User sees error message when there's a networking error. You may not use UIAlertView to display the error. See this screenshot for what the error message should look like: network error screenshot.
