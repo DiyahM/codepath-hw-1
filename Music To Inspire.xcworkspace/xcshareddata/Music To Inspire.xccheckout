@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>8D5BF309-9F0E-4C3E-8B31-8DE53C191F43</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Music To Inspire</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>EE07464ADE7E38ED5ECF3A084F480F634A8D25A4</key>
+		<string>https://github.com/DiyahM/codepath-hw-1.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Music To Inspire.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>EE07464ADE7E38ED5ECF3A084F480F634A8D25A4</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/DiyahM/codepath-hw-1.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>EE07464ADE7E38ED5ECF3A084F480F634A8D25A4</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>EE07464ADE7E38ED5ECF3A084F480F634A8D25A4</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Music%20To%20Inspire</string>
+		</dict>
+	</array>
+</dict>
+</plist>
