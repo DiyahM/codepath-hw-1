@@ -16,7 +16,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
     func application(application: UIApplication, didFinishLaunchingWithOptions launchOptions: [NSObject: AnyObject]?) -> Bool {
         
-        Parse.setApplicationId("krjwmvFhGtk8OJZVy2ie6a4lZIfWQlp2Nk7DeJht", clientKey: "9YoQ1edXnngaBEJKkr432bYHONzk3lxX2UgzWCdQ")
+        Parse.setApplicationId("APPKEY", clientKey: "CLIENTKEY")
         
         var navigationBarAppearance = UINavigationBar.appearance()
         navigationBarAppearance.titleTextAttributes = [NSForegroundColorAttributeName: UIColor.whiteColor()]
