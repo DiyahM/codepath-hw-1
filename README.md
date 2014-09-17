@@ -1,7 +1,5 @@
 ##Codepath HW 1: TED MUSIC APP Demo
 
-![Animated Screenshots](output_bjK4ac.gif?raw=true =320x)
-
 Wanted to challenge myself to do a different app other than the Rotten Tomatoes app, but still meet the basic requirement.
 The TED API ended up not being as straight forward and it costed me a lot of hours. I ended up scrapping the TED API and using PARSE Overall, I probably spent **15 - 20 hours** on this assignment. 
 
@@ -19,3 +17,5 @@ Issues:
 - I would like to extend this app to play the TED videos. I was unable to get the video working before the assignment deadline.
 - Could not get LiceCap to work for animated gif. When launched an empty window appears and then it crashes.
 - I also could not set the size of the animated gif attache in this readme
+
+![Animated Screenshots](output_bjK4ac.gif?raw=true =320x)
